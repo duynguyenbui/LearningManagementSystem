@@ -1,6 +1,6 @@
-# Project Name
+# Duy Nguyen Bui
 
-A brief description of your project.
+A brief description of my project.
 
 ## Table of Contents
 
