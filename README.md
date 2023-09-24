@@ -33,7 +33,5 @@ To get started with this project, follow these steps:
 1. Clone this repository.
 2. Install project dependencies:
 
-   ```bash
-   # or
    ```zsh
    bun install
