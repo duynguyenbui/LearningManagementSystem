@@ -34,8 +34,6 @@ To get started with this project, follow these steps:
 2. Install project dependencies:
 
    ```bash
-   npm install
    # or
-   yarn
-   # or
-   pnpm install
+   ```zsh
+   bun install
